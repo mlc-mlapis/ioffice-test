@@ -2,3 +2,5 @@
 ============
 
 Testovací projekt: ěšččřčžýřýží
+
+První commit.
